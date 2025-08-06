@@ -16,3 +16,4 @@ To install:
 ```
 sudo xbps-install -Syu i3 conky polybar emptty vim  
 ```
+![/screenshots/newbar.png]
