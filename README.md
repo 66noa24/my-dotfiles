@@ -19,3 +19,7 @@ sudo xbps-install -Syu i3 conky polybar emptty vim
 ---
 My desktop:
 ![Example](https://github.com/66noa24/my-dotfiles/blob/main/Pictures/screenshots/newbar.png)
+
+# Obsidian
+In the obsidian folder, there is my plugins. These will be kept up to date as much as possible.  
+(Note: Syncing to phone may cause some issues with plugins.)
