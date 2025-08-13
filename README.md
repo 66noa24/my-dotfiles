@@ -17,6 +17,8 @@
 	Background
 - Dmenu  
 	For running applications
+- `libatomic`  
+	needed for running discord/other element shit
 
 To install:
 ```
