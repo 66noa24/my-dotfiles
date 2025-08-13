@@ -18,7 +18,7 @@
 - Dmenu  
 	For running applications
 - `libatomic`  
-	needed for running discord/other element shit
+	needed for running discord/other element shit windows
 
 To install:
 ```
