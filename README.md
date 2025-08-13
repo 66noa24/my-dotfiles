@@ -11,10 +11,16 @@
 	Session Manager
 - Vim  
 	Text editing (<3)
+- Kitty  
+	For terminal
+- Nitrogen  
+	Background
+- Dmenu  
+	For running applications
 
 To install:
 ```
-sudo xbps-install -Syu i3 conky polybar emptty vim  
+sudo xbps-install -Syu i3 conky polybar emptty vim kitty nitrogen dmenu
 ```
 ---
 My desktop:
