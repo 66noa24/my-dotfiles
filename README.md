@@ -19,6 +19,8 @@
 	For running applications
 - `libatomic`  
 	needed for running discord/other element shit windows
+- `x11vnc`
+	For VNC server!
 
 To install:
 ```
