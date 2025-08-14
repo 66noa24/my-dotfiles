@@ -24,7 +24,7 @@
 
 To install:
 ```
-sudo xbps-install -Syu i3 conky polybar emptty vim kitty nitrogen dmenu libatomic
+sudo xbps-install -Syu i3 conky polybar emptty vim kitty nitrogen dmenu libatomic x11vnc
 ```
 ---
 My desktop:
