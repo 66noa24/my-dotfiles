@@ -22,11 +22,11 @@
 
 To install:
 ```
-sudo xbps-install -Syu i3 conky polybar emptty vim kitty nitrogen dmenu
+sudo xbps-install -Syu i3 conky polybar emptty vim kitty nitrogen dmenu libatomic
 ```
 ---
 My desktop:
-![Example](https://github.com/66noa24/my-dotfiles/blob/main/Pictures/screenshots/newbar.png)
+![Example](https://github.com/66noa24/my-dotfiles/blob/main/OTHER/Pictures/screenshots/newbar.png)
 
 # Obsidian
 In the obsidian folder, there is my plugins. These will be kept up to date as much as possible.  
