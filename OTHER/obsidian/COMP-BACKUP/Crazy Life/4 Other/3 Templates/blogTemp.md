@@ -1,5 +1,0 @@
----
-dg-publish:
----
-#blog *date*
-

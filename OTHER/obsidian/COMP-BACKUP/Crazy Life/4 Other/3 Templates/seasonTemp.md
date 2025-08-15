@@ -1,4 +1,0 @@
-	<Year>
-### Plans
-
-### Bucket list

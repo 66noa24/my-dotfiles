@@ -1,6 +1,0 @@
-### Todo:
-
-#### Loose Agenda
-
----
-#weekly 

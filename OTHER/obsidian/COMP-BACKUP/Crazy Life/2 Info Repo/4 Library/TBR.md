@@ -1,6 +1,0 @@
-- [x] Captive Prince #2
-- [x] Captive Prince #3
-- [ ] The master and margarita
-- [ ] Kundo Wakes up
-- [ ] I am a cat
-- [ ] The ruins - Scott Smith

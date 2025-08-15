@@ -1,7 +1,0 @@
-- what are the results of
-- look at year 1973 in regards to finance
-- look at supreme Court case Buckley v. Balleo
-- two different types of voting
-	- perspective voting
-	- retrospective voting
-- factor s that matter most in an general and primary election

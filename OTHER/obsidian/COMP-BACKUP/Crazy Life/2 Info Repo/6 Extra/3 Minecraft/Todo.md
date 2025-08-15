@@ -1,9 +1,0 @@
-- [x] iron tools
-- [x] Library
-- [x] Redo my hosue
-- [x] Campsite
-- [x]  Maze
-- [ ] train station
-- [ ] your house
-	- [ ] dock
-- [ ] 
