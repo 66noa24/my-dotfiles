@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "04cd09d6f5d79cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a25a779a37fe51d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdab5db478d8cc44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Other/1 Planner/1 Daily/08-15, Fr '25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-15, Fr '25"
+            }
+          },
+          {
+            "id": "9823b51034307d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 School/3 HACC/Information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Information"
+            }
+          },
+          {
+            "id": "c35dae1a52cba503",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "title": "Inbox (2) - nmk39937@hawkmail.hacc.edu - HACC; Central Pennsylvania's Community College Mail",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Inbox (2) - nmk39937@hawkmail.hacc.edu - HACC; Central Pennsylvania's Community College Mail"
+            }
+          },
+          {
+            "id": "f1e5d127c8e10ade",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://my.hacc.edu/",
+                "title": "my.hacc.edu",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "my.hacc.edu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb4d281129680451",
+    "type": "split",
+    "children": [
+      {
+        "id": "12fdd2eba0048ff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "830221d2fece1548",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "856bcdc67407e24c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8579a664dec32d26",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74150050e7322405",
+    "type": "split",
+    "children": [
+      {
+        "id": "130ed80bb3870b17",
+        "type": "tabs",
+        "dimension": 78.5204991087344,
+        "children": [
+          {
+            "id": "594d1d0ebd2db642",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d54af6fad39f978a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Issac.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Issac"
+            }
+          },
+          {
+            "id": "b47f7f7d4a9c5ec9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0cc9208fb2bfc15c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "757af77ae7abffee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Life/Cork board.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cork board"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2a15550c3fff157b",
+        "type": "tabs",
+        "dimension": 21.479500891265594,
+        "children": [
+          {
+            "id": "ddf3aff0179e8dc6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "widgets",
+              "state": {
+                "type": "clock",
+                "author": "",
+                "date": "",
+                "format": "24hr",
+                "quote": "",
+                "text": "",
+                "to": "",
+                "isEditing": false,
+                "hideSeconds": null,
+                "increment": "1",
+                "startValue": "0"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Widget View"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "widgets:Add widget": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "periodic-notes:Open today": false,
+      "obsidian-task-progress-bar:Open Task Genius view": false
+    }
+  },
+  "active": "bdab5db478d8cc44",
+  "lastOpenFiles": [
+    "4 Other/1 Planner/1 Daily/08-14, Th '25.md",
+    "4 Other/1 Planner/1 Daily/08-12, Tu '25.md",
+    "3 School/3 HACC/Information.md",
+    "4 Other/2 ZPIC/Other/IMG_20250810_133224200_DOC.jpg",
+    "4 Other/2 ZPIC/Other/Pasted image 20250509090941.png",
+    "4 Other/2 ZPIC/Other/Pasted image 20250509090927.png",
+    "4 Other/2 ZPIC/Other/March Statement.pdf",
+    "4 Other/2 ZPIC/Other/Hacc account instr and CRS cds.jpg",
+    "4 Other/2 ZPIC/Other/Hacc email photo.png",
+    "4 Other/1 Planner/2 Weekly/'25 W-34.md",
+    "4 Other/1 Planner/1 Daily/08-18, Mo '25.md",
+    "4 Other/1 Planner/1 Daily/08-13, We '25.md",
+    "4 Other/1 Planner/1 Daily/08-11, Mo '25.md",
+    "2 Info Repo/5 Tech/Git/PAT.md",
+    "4 Other/1 Planner/6 Habits/Aug habits.md",
+    "4 Other/1 Planner/6 Habits",
+    "4 Other/4 v'lt archive/School/Todo.md",
+    "4 Other/1 Planner/3 Monthly/'25 May.md",
+    "4 Other/1 Planner/4 Yearly/2025.md",
+    "1 Life/2 Money Mgt/ZIP.md",
+    "4 Other/1 Planner/1 Daily/08-25, Mo '25.md",
+    "2 Info Repo/4 Library/Ebooks/MD books/MasterMargarita.md",
+    "MM-DD 'YY.md",
+    "1 Life/1 M. Health Mgt/1 Episode tracking.md",
+    "1 Life/Cork board.canvas",
+    "4 Other/1 Planner/5 Seasons/25 Summer.md",
+    "4 Other/3 Templates/seasonTemp.md",
+    "4 Other/1 Planner/5 Seasons/26 Spring.md",
+    "4 Other/3 Templates/yearTemp.md",
+    "4 Other/1 Planner/3 Monthly/'25 Sep.md",
+    "4 Other/1 Planner/3 Monthly/'25 Aug.md",
+    "4 Other/3 Templates/monthTemp.md",
+    "4 Other/1 Planner/1 Daily/08-16, Sa '25.md",
+    "4 Other/2 ZPIC/Other/school/haccstart.pdf",
+    "4 Other/2 ZPIC/Other/Pasted image 20250811152728.png",
+    "4 Other/2 ZPIC/Other/school/game2wtwh.png",
+    "3 Other/2 ZPIC/SCAN_20250810_133235799.pdf",
+    "2 Info Repo/6 Extra/Recipes",
+    "3 Other/2 ZPIC",
+    "3 Other",
+    "1 Life/3 Religion/HunDeDao/HunDeDao Dashboard.canvas",
+    "3 School/3 HACC",
+    "3 School/2 Alpha",
+    "3 School/1 English",
+    "HunDeDao Dashboard.canvas",
+    "4 Other/4 v'lt archive/3 Relationship/Relationship.canvas",
+    "4 Other/2 ZPIC/sigil.jpg",
+    "4 Other/2 ZPIC/Other/history.png",
+    "4 Other/2 ZPIC/Other/100_0302.JPG"
+  ]
+}

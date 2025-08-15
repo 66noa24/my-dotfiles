@@ -1,0 +1,13 @@
+### Archean Eon Overview
+
+The Archean Eon lasted from approximately 4.0 billion to 2.5 billion years ago and is characterized by significant geological and biological developments. Here are the key aspects related to the formation of oceans, continents, and the atmosphere during this eon:
+
+#### Formation of Oceans and Continents
+- **Oceans**: The Archean Eon marked the cooling of the Earth from its molten state, allowing water vapor to condense and form the first oceans. This process was largely driven by volcanic outgassing, which released water vapor and other gases into the atmosphere. As the planet cooled, these gases contributed to the formation of liquid water on the surface. Evidence suggests that by around 4 billion years ago, the Earth had established its first oceans, which were likely warm and rich in dissolved minerals. [1](https://www.britannica.com/science/Archean-Eon) [2](https://earthhow.com/archean-eon/).
+
+- **Continents**: During the Archean, the Earth's crust began to stabilize, leading to the formation of the first continental landmasses. The process of plate tectonics likely began during this time, resulting in the aggregation of smaller landmasses into larger cratons. These early continents were primarily composed of granitic rocks and were still relatively small compared to modern continents. [3](https://geo.libretexts.org/Bookshelves/Geology/Book%3A_An_Introduction_to_Geology_(Johnson_Affolter_Inkenbrandt_and_Mosher)/08%3A_Earth_History/8.04%3A_Archean_Eon).
+
+#### Oxygen in the Atmosphere
+- **Atmospheric Composition**: The atmosphere during the Archean Eon was markedly different from today. It was composed mainly of volcanic gases such as carbon dioxide (CO2), methane (CH4), and ammonia (NH3), with very little free oxygen (O2). Estimates suggest that oxygen levels were less than 0.001% of present atmospheric levels, indicating a weakly reducing atmosphere. [4](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/archean-eon) [5](https://www.britannica.com/science/Archean-Eon).
+
+- **Emergence of Oxygen**: Although free oxygen was scarce, the first forms of life, primarily anaerobic bacteria and cyanobacteria, began to emerge during the Archean. These organisms were capable of photosynthesis, which produced oxygen as a byproduct. However, the oxygen released during this time was quickly absorbed by the surrounding environment and did not accumulate significantly in the atmosphere until later in Earth's history.

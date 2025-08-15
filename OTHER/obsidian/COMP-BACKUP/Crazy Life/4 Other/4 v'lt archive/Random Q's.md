@@ -1,0 +1,5 @@
+- [x] Why's the sky blue?
+	- The sky is blue due to a phenomenon called Rayleigh scattering. Sunlight, which appears white to us, is actually made up of all the colors of the rainbow. When sunlight enters the Earth's atmosphere, it collides with tiny air molecules (mostly nitrogen and oxygen). These molecules are much smaller than the wavelengths of visible light.
+	- Rayleigh scattering affects shorter wavelengths of light more strongly than longer wavelengths. Blue and violet light have the shortest wavelengths, so they are scattered more effectively by the air molecules. This scattered blue light is what we see when we look at the sky. Violet light is scattered even more than blue, but our eyes are less sensitive to violet, and the sun emits slightly less violet light, so we perceive the sky as blue.
+- [x] When air fills the lung, are there, like, air pockets? Between the flesh of the lungs? Or is it absorbed completely, what is the process?
+- [-] 

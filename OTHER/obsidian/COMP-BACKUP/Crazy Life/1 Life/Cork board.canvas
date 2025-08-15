@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"42cdbdc5175006d8","type":"group","x":-720,"y":-520,"width":583,"height":620,"label":"Countdowns"},
+		{"id":"12ef938b9d433b66","type":"text","text":"```widgets\ntype: countdown\ndate: 2025-08-25 00:00:00\nto: School Starts! Senior Year!\nshow: days,hours,minutes,seconds\n```\n","x":-657,"y":-460,"width":431,"height":190},
+		{"id":"16f239074546d6c0","type":"text","text":"```widgets\ntype: countdown\ndate: 2025-12-06 18:30:00\nto: 19th Birthday\nshow: days,hours,minutes,seconds\n```\n","x":-680,"y":-180,"width":477,"height":180},
+		{"id":"a46eebf9bc7370cd","type":"text","text":"# D8Gas Coupon codes!\n#Drugs \n\n| Code   | Discount      |\n| ------ | ------------- |\n| D8RE20 | 20% off order |\n","x":99,"y":-270,"width":304,"height":265,"color":"3"},
+		{"id":"d3e8e7eda364a5b5","type":"text","text":"**08-06 '25** | UGHHHHHHH\n\n**08-08 '25** | Just keeps getting closer lmao. ","x":-968,"y":-829,"width":250,"height":169},
+		{"id":"695c67bf16f755fe","type":"link","url":"https://proton.me/","x":153,"y":-1420,"width":933,"height":760},
+		{"id":"5717d97d71611519","type":"text","text":"🔐β 💡nrm💡7DTT5Oz80x5etKI90pXEE3PCNVNWIqbkNpgAHHTRbVNffr5WSchrMTNTShamR0cMhh9Y7c6mhEP2zg== 🔐","x":153,"y":-1560,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9ef9803bec52b684","fromNode":"d3e8e7eda364a5b5","fromSide":"right","toNode":"12ef938b9d433b66","toSide":"top","label":"in response to:"},
+		{"id":"01eb1194af41765e","fromNode":"5717d97d71611519","fromSide":"bottom","toNode":"695c67bf16f755fe","toSide":"top"}
+	]
+}

@@ -1,0 +1,19 @@
+- **Eon: Hadean**
+- **Eon: Archean**
+- **Eon: Proterozoic**
+- **Eon: Phanerozoic**
+    - **Era: Paleozoic**
+        - Period: Cambrian
+        - Period: Ordovician
+        - Period: Silurian
+        - Period: Devonian
+        - Period: Carboniferous
+        - Period: Permian
+    - **Era: Mesozoic**
+        - Period: Triassic
+        - Period: Jurassic
+        - Period: Cretaceous
+    - **Era: Cenozoic**
+        - Period: Paleogene
+        - Period: Neogene
+        - Period: Quaternary
