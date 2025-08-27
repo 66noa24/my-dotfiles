@@ -7,7 +7,7 @@ alias ls='ls --color=auto'
 alias btns='brightnessctl -d "intel_backlight" set '
 
 # PS1='[\u@\h \W]\$ '
-PS1='\n°º¤ø,¸¸,ø¤º°\`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°\`°º¤ø,¸\n\d, \T \n\w\nD347H-D3LL \$ '
+PS1='\n°º¤ø,¸¸,ø¤º°\`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°\`°º¤ø,¸\n\d, \T \n\w\nEDIT-BASHRC \$ '
 
 alias ZZZ='ZZZ'
 alias zzz='sudo zzz'

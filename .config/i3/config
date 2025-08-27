@@ -124,18 +124,20 @@ bindsym $mod+a focus parent
 # workspace assign window
 # assign [class="kitty"] 10
 assign [class="discord"] $ws10
+assign [class="vesktop"] $ws10
 assign [class="Hexchat"] 8
 # assign [class="dooble"] 1
 assign [class="obsidian"] $ws11
-assign [class="Spotify"] 10
+assign [class="Spotify"] $ws7
 assign [class="Firefox"] $ws1
+assign [class="Brave-browser"] $ws1
 #assign [class="tuba"] 9 
 assign [class="qemu"] 7
 #assign [class="modrinth-app-wrapped"] 9
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1:F" 
+set $ws1 "1:B" 
 set $ws2 "2:T"
 set $ws3 "3"
 set $ws4 "4"
@@ -221,6 +223,7 @@ bindsym $mod+Shift+s exec "xfce4-screenshooter"
 #bindsym $mod+Control+w exec "/home/sstf/apps/starc.AppImage"
 #bindsym $mod+Control+o exec "/home/sstf/apps/Obsidian-1.7.7.AppImage"
 #bindsym $mod+Control+s exec "flatpak run com.spotify.Client"
+bindsym $mod+control+l exec "/home/sstf/.lsr"
 	###### bindsym $mod+Control+<letter> exec "<path/to/file>"
 
 # Misc. Commands
@@ -244,6 +247,8 @@ exec_always conky
 # Xrandr resolution fix for VNC
 exec_always --no-startup-id /home/sstf/.resolution-set
 exec_always --no-startup-id pkill -x polybar ; polybar --reload example &
+exec_always --no-startup-id sh -c 'pgrep -x obsidian || obsidian'
+exec_always rclone mount m:storage /home/sstf/other/s3/  --vfs-cache-mode writes   --dir-cache-time 1m   --uid $(id -u) --gid $(id -g)   --umask 0022
 
 for_window [class="^.*"] border pixel 5
 gaps inner 9
