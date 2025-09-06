@@ -6,7 +6,7 @@ case $ch in
   1) 13_inst ;;
   2) main_inst ;;
   3) vnc_inst ;;
-  4) sudo xbps-isntall -Syu
+  4) sudo xbps-isntall -Syu ;;
   *) echo "not valid option" ;;
 esac
 
