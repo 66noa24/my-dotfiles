@@ -26,14 +26,21 @@ install_other() {
   echo "other config linked."
 }
 
+cp_resolution() {
+  echo "Copying over the file"
+  cp "$dotfiles/.resolution-set" "$HOME/.resolution-set"
+}
+
 echo "What do you want to do?"
 echo "  a) Install i3 config | emptty, and i3 config"
 echo "  b) Install other app config | helix, conky, polybar"
-read -r -p "Choice (a/b): " ch
+echo "  c) Copy over .resolution-set to home for funky resolution. May break"
+read -r -p "Choice (a/b/c): " ch
 
 case "$ch" in
   a|A) install_i3 ;;
   b|B) install_other ;;
+  c|C) cp_resolution ;; 
   *) echo "No valid choice, exiting." ;;
 esac
 
