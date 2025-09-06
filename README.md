@@ -9,8 +9,9 @@
 	Main bar
 - Emptty  
 	Session Manager
-- Vim  
+- Helix  
 	Text editing (<3)
+		Used to be vim, now its helix!!
 - Kitty  
 	For terminal
 - Nitrogen  
@@ -24,7 +25,7 @@
 
 To install:
 ```
-sudo xbps-install -Syu i3 conky polybar emptty vim kitty nitrogen dmenu libatomic x11vnc
+sudo xbps-install -Syu i3 conky polybar emptty helix kitty nitrogen dmenu libatomic x11vnc
 ```
 ---
 My desktop:
