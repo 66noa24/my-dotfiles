@@ -17,7 +17,7 @@ vnc_inst() {
 echo "Options: i3-1 (j i3), main-2, x11vnc-3, update system-4"
 read -r -p "Choice 1-4: " ch
 case $ch in
-  1) 13_inst ;;
+  1) i3_inst ;;
   2) main_inst ;;
   3) vnc_inst ;;
   4) sudo xbps-isntall -Syu ;;
