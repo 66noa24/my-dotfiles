@@ -2,17 +2,23 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-dotfiles="."
+dotfiles="$HOME/other/git/my-dotfiles"
 
 install_i3() {
   echo "Linking i3 config..."
-  ln -sfn "$dotfiles/config/i3/config" "$HOME/.config/i3/config"
+  install -D "$dotfiles/.config/i3/config" "$HOME/.config/i3/config"
   echo "i3 config linked."
 }
 
 install_other() {
   echo "Linking other app config..."
-  ln -sfn "$dotfiles/config/other/app.conf" "$HOME/.config/other/app.conf"
+  install -D "$dotfiles/.config/helix/config.toml" "$HOME/.config/helix/config.toml"
+  echo "Copied helix config"
+  sudo install -D "$dotfiles/.etc/conky/conky.conf" "/etc/conky/conky.conf"
+  echo "Copied conky files"
+  sudo install -D "$dotfiles/.etc/polybar/config.ini" "/etc/polybar/config.ini"
+  echo "Copied polybar config"
+  echo "==============================="
   echo "other config linked."
 }
 
